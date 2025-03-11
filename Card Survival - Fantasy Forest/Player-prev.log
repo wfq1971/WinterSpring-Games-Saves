@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8059 MB
     Driver:   32.0.15.7260
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.245 seconds
+- Completed reload, in  0.252 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.984800 ms
+UnloadTime: 1.740000 ms
 Data dictionnary successfully loaded. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -26,17 +26,17 @@ Curl error 35: Handshake did not perform verification. UnityTls error code: 7
  
 (Filename:  Line: 867)
 
+UnloadTime: 1.407300 ms
 Curl error 35: Handshake did not perform verification. UnityTls error code: 7
  
 (Filename:  Line: 867)
 
-UnloadTime: 1.389400 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6159.
-Total: 555.315800 ms (FindLiveObjects: 0.363600 ms CreateObjectMapping: 0.169300 ms MarkObjects: 554.755200 ms  DeleteObjects: 0.027100 ms)
+Total: 590.883100 ms (FindLiveObjects: 0.377200 ms CreateObjectMapping: 0.174300 ms MarkObjects: 590.303700 ms  DeleteObjects: 0.027300 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.244700 ms
+UnloadTime: 0.243400 ms
 Success! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -44,8 +44,8 @@ Success!
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 16782.
-Total: 566.282200 ms (FindLiveObjects: 1.193800 ms CreateObjectMapping: 0.464700 ms MarkObjects: 564.571900 ms  DeleteObjects: 0.051300 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 16865.
+Total: 621.000700 ms (FindLiveObjects: 1.327900 ms CreateObjectMapping: 0.472700 ms MarkObjects: 619.152400 ms  DeleteObjects: 0.047100 ms)
 
 Curl error 35: Handshake did not perform verification. UnityTls error code: 7
  
@@ -58,14 +58,29 @@ Curl error 35: Handshake did not perform verification. UnityTls error code: 7
 Success! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Setting up 10 worker threads for Enlighten.
-  Thread -> id: 29e0 -> priority: 1 
-  Thread -> id: 2ed4 -> priority: 1 
-  Thread -> id: 2bd4 -> priority: 1 
-  Thread -> id: 27b4 -> priority: 1 
-  Thread -> id: 24bc -> priority: 1 
-  Thread -> id: 4370 -> priority: 1 
-  Thread -> id: 30fc -> priority: 1 
-  Thread -> id: 2a60 -> priority: 1 
-  Thread -> id: 18cc -> priority: 1 
-  Thread -> id: 2434 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.655600 ms
+
+Unloading 973 unused Assets to reduce memory usage. Loaded Objects now: 6588.
+Total: 601.674900 ms (FindLiveObjects: 0.490700 ms CreateObjectMapping: 0.226100 ms MarkObjects: 599.988300 ms  DeleteObjects: 0.969300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388000 ms
+Current Gamemode: CharacterList 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Current Character:  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 147559.
+Total: 787.917600 ms (FindLiveObjects: 9.594900 ms CreateObjectMapping: 4.517600 ms MarkObjects: 773.455600 ms  DeleteObjects: 0.348900 ms)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+

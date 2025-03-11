@@ -3,6 +3,8 @@
     "NormalizedAmbienceVolume": 1.0,
     "NormalizedSFXVolume": 1.0,
     "NormalizedMouseWheelSensitivity": 0.5,
+    "BrightnessSetting": 0.0,
+    "ContrastSetting": 0.0,
     "InvertHorizontalMouseScroll": false,
     "DisableSpecialEffects": false,
     "VSync": false,
