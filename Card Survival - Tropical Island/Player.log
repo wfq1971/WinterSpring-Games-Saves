@@ -1,0 +1,427 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/Card Survival Tropical Island/Card Survival - Tropical Island_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/Card Survival Tropical Island/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.38f1 (fdbb7325fa47)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/Card Survival Tropical Island/Card Survival - Tropical Island_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8059 MB
+    Driver:   32.0.15.6094
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.459 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.415400 ms
+Data dictionnary successfully loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Properly loaded main save data 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+UnloadTime: 1.535400 ms
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 7947.
+Total: 488.159400 ms (FindLiveObjects: 0.441700 ms CreateObjectMapping: 0.243400 ms MarkObjects: 487.436700 ms  DeleteObjects: 0.036900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279300 ms
+Achievement: MAKE_CAMPFIRE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_DAY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EAT_DRINK_COCO 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HUNT_SMALL_GAME 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_WEEK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FIRST_DEATH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_MUD_HUT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DIVINE_INSIGHT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HUNT_BIG_GAME 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_DIARRHOEA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CATCH_FEVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_MONTH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SPEAR_FIGHTING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DEFEAT_HUNTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: PLANT_CROP 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FACE_WATCHER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VOID_INSIGHT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_MACAQUE_FRIEND 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_WESTON 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_FLINT_TOOL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: ANIMAL_BITES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_DRUMS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_CRAFTING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_HUNTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CREATE_CUSTOM_CHARACTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SPEEDRUN 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_CUSTOM_DIFFICULTY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EAT_PREPARED_MEAL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HATCH_EGG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_ARCHERY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_WOODWORKING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_HERBOLOGY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_COPPER_TOOL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SWIMMING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_FARMER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CARVE_FIGURINES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: RETURN_TO_MONKE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_PEARL_NECKLACE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_FISHING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_COOKING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_CLIMBING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_TOURIST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: NOT_THE_BEES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: WESTON_TALK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: GOAT_BIRTH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_MERMAID 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_TAILORING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_KNAPPING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FIND_SHIPWRECK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EXPLORE_ISLAND 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DYNAMITE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EXPLORE_CAVES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_TRAPPING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SPEAR_FISHING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CREATE_CUSTOM_CHARACTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 14356.
+Total: 521.825800 ms (FindLiveObjects: 0.796000 ms CreateObjectMapping: 0.355000 ms MarkObjects: 520.631500 ms  DeleteObjects: 0.042700 ms)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.448800 ms
+
+Unloading 303 unused Assets to reduce memory usage. Loaded Objects now: 8472.
+Total: 529.563400 ms (FindLiveObjects: 0.476200 ms CreateObjectMapping: 0.279900 ms MarkObjects: 528.540100 ms  DeleteObjects: 0.266300 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.295800 ms
+Current Gamemode: CharacterList 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Current Character:  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 30591.
+Total: 534.767100 ms (FindLiveObjects: 1.734400 ms CreateObjectMapping: 0.790200 ms MarkObjects: 532.172200 ms  DeleteObjects: 0.069600 ms)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Success! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Success! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 39.955100 ms
+Achievement: MAKE_CAMPFIRE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_DAY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EAT_DRINK_COCO 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HUNT_SMALL_GAME 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_WEEK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FIRST_DEATH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_MUD_HUT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DIVINE_INSIGHT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HUNT_BIG_GAME 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_DIARRHOEA 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CATCH_FEVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: SURVIVE_MONTH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SPEAR_FIGHTING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DEFEAT_HUNTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: PLANT_CROP 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FACE_WATCHER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VOID_INSIGHT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_MACAQUE_FRIEND 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_WESTON 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_FLINT_TOOL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: ANIMAL_BITES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_DRUMS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_CRAFTING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_HUNTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CREATE_CUSTOM_CHARACTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_CUSTOM_DIFFICULTY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EAT_PREPARED_MEAL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: HATCH_EGG 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_ARCHERY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_WOODWORKING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_HERBOLOGY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_COPPER_TOOL 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SWIMMING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_FARMER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CARVE_FIGURINES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: RETURN_TO_MONKE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAKE_PEARL_NECKLACE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_FISHING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_COOKING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_CLIMBING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_TOURIST 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: NOT_THE_BEES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: WESTON_TALK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: GOAT_BIRTH 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: VICTORY_MERMAID 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_TAILORING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_KNAPPING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: FIND_SHIPWRECK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EXPLORE_ISLAND 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: DYNAMITE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: EXPLORE_CAVES 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_TRAPPING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: MAX_SPEAR_FISHING 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achievement: CREATE_CUSTOM_CHARACTER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 213 unused Assets to reduce memory usage. Loaded Objects now: 22446.
+Total: 538.736100 ms (FindLiveObjects: 1.362600 ms CreateObjectMapping: 0.748100 ms MarkObjects: 535.956600 ms  DeleteObjects: 0.668100 ms)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 378c -> priority: 1 
+  Thread -> id: 61e4 -> priority: 1 
+  Thread -> id: 64ec -> priority: 1 
+  Thread -> id: 6944 -> priority: 1 
+  Thread -> id: 57c0 -> priority: 1 
+  Thread -> id: 72f8 -> priority: 1 
+  Thread -> id: b88 -> priority: 1 
+  Thread -> id: 78bc -> priority: 1 
+  Thread -> id: 3b30 -> priority: 1 
+  Thread -> id: 678c -> priority: 1 

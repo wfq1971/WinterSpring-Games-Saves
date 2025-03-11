@@ -1,0 +1,71 @@
+Mono path[0] = 'S:/SteamLibrary/steamapps/common/Card Survival Fantasy Forest/Card Survival - Fantasy Forest_Data/Managed'
+Mono config path = 'S:/SteamLibrary/steamapps/common/Card Survival Fantasy Forest/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.38f1 (fdbb7325fa47)
+[Subsystems] Discovering subsystems at path S:/SteamLibrary/steamapps/common/Card Survival Fantasy Forest/Card Survival - Fantasy Forest_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8059 MB
+    Driver:   32.0.15.7260
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.952 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.352400 ms
+Data dictionnary successfully loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Properly loaded main save data 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.487700 ms
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6159.
+Total: 592.168400 ms (FindLiveObjects: 0.351200 ms CreateObjectMapping: 0.166900 ms MarkObjects: 591.623700 ms  DeleteObjects: 0.026000 ms)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.248300 ms
+Success! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Success! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 16866.
+Total: 621.183300 ms (FindLiveObjects: 1.339100 ms CreateObjectMapping: 0.450100 ms MarkObjects: 619.341100 ms  DeleteObjects: 0.052300 ms)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+ 
+(Filename:  Line: 867)
+
+Success! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Setting up 10 worker threads for Enlighten.
+  Thread -> id: 3d98 -> priority: 1 
+  Thread -> id: 30bc -> priority: 1 
+  Thread -> id: 37ec -> priority: 1 
+  Thread -> id: 421c -> priority: 1 
+  Thread -> id: 22cc -> priority: 1 
+  Thread -> id: 19d0 -> priority: 1 
+  Thread -> id: 2ef8 -> priority: 1 
+  Thread -> id: 3c70 -> priority: 1 
+  Thread -> id: 129c -> priority: 1 
+  Thread -> id: 3628 -> priority: 1 

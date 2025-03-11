@@ -1,0 +1,13 @@
+{
+    "NormalizedMusicVolume": 1.0,
+    "NormalizedAmbienceVolume": 1.0,
+    "NormalizedSFXVolume": 1.0,
+    "NormalizedMouseWheelSensitivity": 0.5,
+    "InvertHorizontalMouseScroll": false,
+    "DisableSpecialEffects": false,
+    "VSync": false,
+    "SelectedFontSet": 0,
+    "SelectedLanguage": 1,
+    "UsingCustomLanguage": true,
+    "CardsExtraLine": 0
+}

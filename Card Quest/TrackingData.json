@@ -1,0 +1,21 @@
+{
+    "GameOver": false,
+    "ChosenBuild": {
+        "BuildName": "Rogue",
+        "Style": "StreetSchool",
+        "Slot1": "ShortSwordRusty",
+        "Slot2": "BareRogue",
+        "Armor": "",
+        "Amulet": "",
+        "Bag": "",
+        "Portrait": "",
+        "CurrentLevel": 0,
+        "CurrentExperience": 0,
+        "CurrentGold": 0,
+        "ChosenLevelPerks": []
+    },
+    "Areas": [
+        "Old Town"
+    ],
+    "PerRoom": []
+}
